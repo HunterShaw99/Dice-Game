@@ -1,0 +1,3 @@
+C:\Users\Hunte\source\repos\Dice\Debug\Dice.exe
+C:\Users\Hunte\source\repos\Dice\Debug\Dice.pdb
+C:\Users\Hunte\WorkSpace\UPJ\CPP\DiceLabHUNTERSHAW\Dice\Debug\Dice.exe
